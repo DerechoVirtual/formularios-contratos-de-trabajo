@@ -1,0 +1,29 @@
+{
+  "name": "formularios-contratos-de-trabajo",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Contratos de trabajo y contratación laboral · España (136 formularios). Para contratar: contratos indefinidos, temporales y formativos tras la reforma de 2021, fijos discontinuos, relaciones laborales especiales (alta dirección, deportistas, artistas, representantes de comercio, hogar), periodo de prueba, pactos y cláusulas del contrato, ETT y cesión de trabajadores, y su información y comunicación. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-contratos-de-trabajo",
+      "source": "./",
+      "description": "Contratos de trabajo y contratación laboral · España (136 formularios). Para contratar: contratos indefinidos, temporales y formativos tras la reforma de 2021, fijos discontinuos, relaciones laborales especiales (alta dirección, deportistas, artistas, representantes de comercio, hogar), periodo de prueba, pactos y cláusulas del contrato, ETT y cesión de trabajadores, y su información y comunicación. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "laboral",
+        "contratacion-laboral"
+      ]
+    }
+  ]
+}
